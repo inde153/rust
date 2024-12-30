@@ -2,5 +2,7 @@
 name = "rust_study"
 version = "0.1.0"
 edition = "2021"
+default-run = "documentations"
+
 
 [dependencies]
